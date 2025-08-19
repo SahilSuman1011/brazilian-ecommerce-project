@@ -1,4 +1,4 @@
-# E-commerce Sales Analytics Pipeline (Azure Data Engineering Project)
+# Customer Demographics & Sales Analytics Pipeline (Azure Data Engineering Project)
 
 ## 📌 Project Overview
 This project implements an **end-to-end data engineering pipeline** for an E-commerce dataset using the **Azure Data Engineering Stack**.  
